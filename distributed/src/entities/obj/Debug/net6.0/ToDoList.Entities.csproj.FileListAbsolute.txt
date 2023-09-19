@@ -1,0 +1,11 @@
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\bin\Debug\net6.0\ToDoList.Entities.deps.json
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\bin\Debug\net6.0\ToDoList.Entities.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\bin\Debug\net6.0\ToDoList.Entities.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.AssemblyInfoInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.AssemblyInfo.cs
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.csproj.CoreCompileInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\refint\ToDoList.Entities.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ToDoList.Entities.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\entities\obj\Debug\net6.0\ref\ToDoList.Entities.dll

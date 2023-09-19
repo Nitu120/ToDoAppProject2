@@ -1,0 +1,12 @@
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.deps.json
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.csproj.AssemblyReference.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.AssemblyInfoInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.AssemblyInfo.cs
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.csproj.CoreCompileInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\refint\ToDoList.Logging.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\logging\obj\Release\net6.0\ref\ToDoList.Logging.dll

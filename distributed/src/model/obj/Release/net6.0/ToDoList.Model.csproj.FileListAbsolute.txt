@@ -1,0 +1,17 @@
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.deps.json
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.runtimeconfig.json
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Entities.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Entities.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.AssemblyReference.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.AssemblyInfoInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.AssemblyInfo.cs
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.CopyComplete
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\refint\ToDoList.Model.dll
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.pdb
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.genruntimeconfig.cache
+C:\00WORK\Labs\AzureGitHub\projects\distributed\src\model\obj\Release\net6.0\ref\ToDoList.Model.dll
